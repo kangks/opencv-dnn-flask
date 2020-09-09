@@ -1,0 +1,1 @@
+Pretrained weights for COCO can be found in https://github.com/AlexeyAB/darknet/wiki/Train-Detector-on-MS-COCO-(trainvalno5k-2014)-dataset
